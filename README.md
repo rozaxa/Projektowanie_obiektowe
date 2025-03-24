@@ -8,3 +8,4 @@
 
 ✅ 4.0 Dodanie parametrów do procedury losującej określającymi zakres
 
+[demo](https://github.com/rozaxa/Projektowanie_obiektowe/blob/main/demos/zadanie_1.mov)
