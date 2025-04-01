@@ -11,10 +11,10 @@
 [demo](https://github.com/rozaxa/Projektowanie_obiektowe/blob/main/demos/zadanie_1.mov)
 
 
-#### Zadanie 2 Wzorce architektury Symfony (PHP)
+#### Zadanie 2 Wzorce architektury Symfony (PHP) [link](https://github.com/rozaxa/Projektowanie_obiektowe/tree/main/zadanie_2)
 
 ✅  3.0 Należy stworzyć jeden model z kontrolerem z produktami, zgodnie z
 CRUD
 
-[demo](https://github.com/rozaxa/Projektowanie_obiektowe/blob/main/demos/zadanie_1.mov)
+[demo](https://github.com/rozaxa/Projektowanie_obiektowe/blob/main/demos/zadanie_2.mov)
 
