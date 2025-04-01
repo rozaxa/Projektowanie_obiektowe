@@ -9,3 +9,12 @@
 ✅ 4.0 Dodanie parametrów do procedury losującej określającymi zakres
 
 [demo](https://github.com/rozaxa/Projektowanie_obiektowe/blob/main/demos/zadanie_1.mov)
+
+
+#### Zadanie 2 Wzorce architektury Symfony (PHP)
+
+✅  3.0 Należy stworzyć jeden model z kontrolerem z produktami, zgodnie z
+CRUD
+
+[demo](https://github.com/rozaxa/Projektowanie_obiektowe/blob/main/demos/zadanie_1.mov)
+
