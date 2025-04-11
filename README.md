@@ -18,3 +18,10 @@ CRUD
 
 [demo](https://github.com/rozaxa/Projektowanie_obiektowe/blob/main/demos/zadanie_2.mov)
 
+#### Zadanie 3 Wzorce kreacyjne Spring Boot (Kotlin) [link](https://github.com/rozaxa/Projektowanie_obiektowe/tree/main/zadanie_2)
+
+✅  3.0 Należy stworzyć jeden kontroler wraz z danymi wyświetlanymi z
+listy na endpoint’cie w formacie JSON - Kotlin + Spring Boot
+[demo](https://github.com/rozaxa/Projektowanie_obiektowe/blob/main/demos/zadanie_3.mov)
+
+
