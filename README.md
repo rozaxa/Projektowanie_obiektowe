@@ -23,7 +23,7 @@ CRUD
 ✅  3.0 Należy stworzyć jeden kontroler wraz z danymi wyświetlanymi z
 listy na endpoint’cie w formacie JSON - Kotlin + Spring Boot
 
-#### Zadanie 4 Wzorce strukturalne Echo (Go) [link]([https://github.com/rozaxa/Projektowanie_obiektowe/tree/main/zadanie4](https://github.com/rozaxa/Projektowanie_obiektowe/tree/main/zadanie_4)
+#### Zadanie 4 Wzorce strukturalne Echo (Go) [link](https://github.com/rozaxa/Projektowanie_obiektowe/tree/main/zadanie_4)
 
 ✅  3.0 3.0 Należy stworzyć aplikację we frameworki echo w j. Go, która będzie
 miała kontroler Pogody, która pozwala na pobieranie danych o pogodzie
