@@ -32,7 +32,7 @@ miała kontroler Pogody, która pozwala na pobieranie danych o pogodzie
 [demo](https://github.com/rozaxa/Projektowanie_obiektowe/blob/main/demos/zadanie_4.mov)
 
 
-#### Zadanie 5 Wzorce behawioralne React (JavaScript/Typescript) [link]([https://github.com/rozaxa/Projektowanie_obiektowe/tree/main/zadanie_5](https://github.com/rozaxa/Projektowanie_obiektowe_zadanie_6_client/tree/main))
+#### Zadanie 5 Wzorce behawioralne React (JavaScript/Typescript) [link](https://github.com/rozaxa/Projektowanie_obiektowe/tree/main/zadanie_5](https://github.com/rozaxa/Projektowanie_obiektowe_zadanie_6_client/tree/main)](https://github.com/rozaxa/Projektowanie_obiektowe/tree/main/zadanie_5)
 
 ✅ 3.0 W ramach projektu należy stworzyć dwa komponenty: Produkty oraz
 Płatności; Płatności powinny wysyłać do aplikacji serwerowej dane, a w
