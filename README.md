@@ -37,7 +37,9 @@ miała kontroler Pogody, która pozwala na pobieranie danych o pogodzie
 ✅ 3.0 W ramach projektu należy stworzyć dwa komponenty: Produkty oraz
 Płatności; Płatności powinny wysyłać do aplikacji serwerowej dane, a w
 Produktach powinniśmy pobierać dane o produktach z aplikacji
-serwerowej;
+serwerowej
+
+[demo](https://github.com/rozaxa/Projektowanie_obiektowe/blob/main/demos/zadanie_5.mov)
 
 #### Zadanie 6 Zapaszki Sonar (JS) [link](https://github.com/rozaxa/Projektowanie_obiektowe/tree/main/zadanie_5)
 
