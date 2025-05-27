@@ -65,3 +65,13 @@ Sonar: [link](https://sonarcloud.io/summary/new_code?id=rozaxa_Projektowanie_obi
 ![Code Smells](https://sonarcloud.io/api/project_badges/measure?project=rozaxa_Projektowanie_obiektowe_zadanie_6_client&metric=code_smells)
 
 
+#### Zadanie 7 Antywzorce Vapor (Swift)) [link](https://github.com/rozaxa/Projektowanie_obiektowe/tree/main/zadanie7)
+
+✅ 3.0 Należy stworzyć kontroler wraz z modele Produktów zgodny z CRUD w
+ORM Fluent
+
+✅ 3.5 Należy stworzyć szablony w Leaf
+
+[demo](https://github.com/rozaxa/Projektowanie_obiektowe/blob/main/demos/zadanie_7.mov)
+
+
