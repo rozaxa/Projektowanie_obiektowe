@@ -1,5 +1,6 @@
 .idea
 
+.DS_Store
 zadanie7/.build/
 zadanie7/.swiftpm/
 
@@ -23,3 +24,7 @@ zadanie7/*.log
 zadanie7/*.dSYM
 zadanie7/*.swiftdoc
 zadanie7/*.swiftsourceinfo
+
+zadanie_8/.idea
+__pycache__/
+*.pyc
