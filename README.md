@@ -76,7 +76,7 @@ ORM Fluent
 
 [demo](https://github.com/rozaxa/Projektowanie_obiektowe/blob/main/demos/zadanie_7.mov)
 
-#### Zadanie 8 Testy [link](https://github.com/rozaxa/Projektowanie_obiektowe/tree/main/zadanie8)
+#### Zadanie 8 Testy [link](https://github.com/rozaxa/Projektowanie_obiektowe/tree/main/zadanie_8)
 
 ✅ 3.0 Należy stworzyć 30 przypadków testowych w Pythonie w WebDriverze
 
