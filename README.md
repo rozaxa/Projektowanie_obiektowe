@@ -82,4 +82,10 @@ ORM Fluent
 
 [demo](https://github.com/rozaxa/Projektowanie_obiektowe/blob/main/demos/zadanie_8.mov)
 
+#### Zadanie 9 Mobile first (Android) [link](https://github.com/rozaxa/Projektowanie_obiektowe/tree/main/zadanie_9)
+
+✅ 3.0 stworzyć listę kategorii oraz produktów
+
+[demo](https://github.com/rozaxa/Projektowanie_obiektowe/blob/main/demos/zadanie_9.mov)
+
 
